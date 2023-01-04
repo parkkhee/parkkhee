@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome%to%parkkhee%git!&fontSize=90&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&width-100%&section=header&text=welcome%20to%20parkkhee%20git!&fontSize=60&fontAlign=70)
 
 
 
