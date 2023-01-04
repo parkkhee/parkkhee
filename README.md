@@ -17,9 +17,17 @@
 
 </div>
 
-
-
 ---
+
+## Cowork Tools 👋
+<div align="center">
+  
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
+  
+  </div>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkkhee)](https://github.com/anuraghazra/github-readme-stats)
 
