@@ -4,7 +4,7 @@
 <div align="center">
   
   ## Hi there 👋
-  i wanna be a Back-End developer  
+  I wanna be a Back-End developer  
   
 </div>
 
