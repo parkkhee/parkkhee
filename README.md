@@ -15,7 +15,6 @@
 
   <img src="https://img.shields.io/badge/Java-8A4182?style=flat-square&logo=Java&logoColor=white"/> 
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>  
 
 </div>
 
